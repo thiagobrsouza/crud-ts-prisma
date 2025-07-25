@@ -1,0 +1,32 @@
+{
+  "name": "crud-ts-prisma",
+  "version": "1.0.0",
+  "description": "O projeto lida com a construção de um CRUD simples para estudo com Nodejs e banco de dados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagobrsouza/crud-ts-prisma.git"
+  },
+  "author": "Thiago Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagobrsouza/crud-ts-prisma/issues"
+  },
+  "homepage": "https://github.com/thiagobrsouza/crud-ts-prisma#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "prisma": "^6.12.0",
+    "ts-node-dev": "^2.0.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.12.0",
+    "express": "^4.21.2",
+    "express-async-errors": "^3.1.1"
+  }
+}
