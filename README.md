@@ -69,8 +69,8 @@ Nesse projeto usaremos as seguintes ferramentas:
 ## Escopo do Projeto
 - [x] Criação de projeto
 - [x] Instalação de dependências
-- [ ] Configuração servidor Express
-- [ ] Configuração Prisma
+- [x] Configuração servidor Express
+- [x] Configuração Prisma
 - [ ] Criação de Middleware para validação
 - [ ] Configuração de rotas Setores
 - [ ] Configuração de rotas Cargos
