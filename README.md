@@ -71,7 +71,7 @@ Nesse projeto usaremos as seguintes ferramentas:
 - [x] Instalação de dependências
 - [x] Configuração servidor Express
 - [x] Configuração Prisma
-- [ ] Criação de Middleware para validação
-- [ ] Configuração de rotas Setores
+- [x] Criação de Middleware para validação
+- [x] Configuração de rotas Setores
 - [ ] Configuração de rotas Cargos
 - [ ] Configuração de rotas Funcionários
