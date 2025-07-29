@@ -73,5 +73,5 @@ Nesse projeto usaremos as seguintes ferramentas:
 - [x] Configuração Prisma
 - [x] Criação de Middleware para validação
 - [x] Configuração de rotas Setores
-- [ ] Configuração de rotas Cargos
-- [ ] Configuração de rotas Funcionários
+- [x] Configuração de rotas Cargos
+- [x] Configuração de rotas Funcionários
